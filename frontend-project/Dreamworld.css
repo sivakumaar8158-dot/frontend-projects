@@ -1,0 +1,97 @@
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+} */
+
+
+.navbar{
+    background-color: black;
+    color: white;
+    display: flex;
+    padding: 30px;
+    justify-content: space-between;
+    
+}
+.logo{
+    background-color: white;
+    padding: 5px;
+  
+}
+
+
+.searchbox input{
+    width: 100px;
+    height: 10px;
+    border-radius: 20px;
+    background-color: white;
+    border: solid 1px rgb(196, 196, 196);
+    padding: 20px;
+    font-size: 15px;
+}
+.searchbox input:hover{
+   background-color: rgb(59, 238, 9);
+   width: 150px;
+   height: 15px;  
+}
+
+.links{
+    display: flex;
+    gap: 20px;
+}
+.links a{
+    color: white;
+    text-decoration: none;
+    font-size: larger;
+    justify-content: space-around;
+
+}
+
+.name{
+    color: black;
+    background-color:rgba(184, 183, 183, 0.153);
+    font-size: xx-large;
+    font-family: initial;
+    padding: 20px;
+    border: dotted black;
+    margin: 5px;
+
+}
+
+.surname{
+    color: red;
+    font-size: x-large;
+    font-style: italic;
+}
+
+.banner img{
+    height: 600px;
+    width: 100%;
+}
+
+.about p{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: larger;
+    text-align: justify;
+    
+}
+
+.about h1{
+    color: red;
+    text-decoration: double;
+}
+
+.nextpage a{
+    color: black;
+    text-decoration: none;
+    background-color: red;
+    transition: all 5s ease-in delay;
+
+
+}
+
+.nextpage a:hover{
+    color:black;
+    background-color: blueviolet;
+   
+}

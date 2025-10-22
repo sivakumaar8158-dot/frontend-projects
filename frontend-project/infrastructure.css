@@ -1,0 +1,23 @@
+.main{
+    background-color: aqua;
+    color: rgb(255, 7, 7);
+}
+
+.main h1{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+.main h2{
+    font-size: xx-large;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.main p{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}

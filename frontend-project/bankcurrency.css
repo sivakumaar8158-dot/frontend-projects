@@ -1,0 +1,26 @@
+.bank img{
+  height: 500px;  
+}
+
+.bank p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+
+.bank b{
+    font-size: larger;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.currency img{
+    height: 500px;
+}
+
+.currency p{
+    font-size: large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    
+}
