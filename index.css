@@ -1,0 +1,22 @@
+.html {
+    background-color: black;
+    border: 20px;
+    border: dotted white;
+    padding: 80px;
+}
+
+.html a{
+    color: white;
+    text-decoration: none;
+    justify-content: center;
+    padding: 10px;
+    display: flex;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+
+}
+
+.html h2{
+    color: red;
+}
